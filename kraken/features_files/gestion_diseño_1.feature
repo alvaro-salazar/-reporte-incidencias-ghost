@@ -18,6 +18,6 @@ Scenario: 2. Como usuario puedo actualizar un item de navegacion
     #Validate item
     Then I navigate to page "http://test.denkitronik.com:2368/ghost/#/site"
     #And I should see the design label "$$name_1"
-
+ 
     
 
