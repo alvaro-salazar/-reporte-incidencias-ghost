@@ -1,8 +1,8 @@
 ﻿# Pruebas E2E
  
  ## Semana 5
- - pros y contras de Kraken
- - pros y contras de Cypress
+-  [Pros & Cons de Kraken](https://github.com/alvaro-salazar/-reporte-incidencias-ghost/wiki/Comparativa-Kraken)
+-  [Pros & Cons de Cypress](https://github.com/alvaro-salazar/-reporte-incidencias-ghost/wiki/Comparativa-Cypress)
  
  ## Instrucciones de ejecucion
  ### Ejecucion de Kraken
